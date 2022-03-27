@@ -3,7 +3,7 @@ const { AoiClient } require("aoi.js");
 const bot = new AoiClient({
     token: process.env["token"],
     intents: "all",
-    prefix: ["?","."]
+    prefix: "?"
 });
 
 bot.addEvent("onMessage");
