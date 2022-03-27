@@ -1,0 +1,19 @@
+{
+    "name": "aoijs-v6-dev-bos-altyapi",
+    "version": "1.0.0",
+    "description": "",
+    "main": "bot.js",
+    "scripts": {
+      "start": "npx node bot.js"
+    },
+    "devDependencies": {
+      "node": "^17.1.0"
+    },
+    "dependencies": {
+      "aoi.js": "^6.0.0-dev.ceb6ae0.1647737134"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
